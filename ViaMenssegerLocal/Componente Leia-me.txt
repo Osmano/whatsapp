@@ -1,2 +1,0 @@
-Git do projeto TInject
-https://github.com/mikelustosa/Projeto-TInject
