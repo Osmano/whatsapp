@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/05/18 08:52:53.000.503,=D:\Projeto-TInject-master\Projeto_TInject\ViaMenssegerFontes\Unit1.pas</Transaction>
+    <Transaction>2023/05/18 08:53:33.000.142,D:\Projeto-TInject-master\Projeto_TInject\ViaMenssegerFontes\UConfiguracao.dfm=D:\Projeto-TInject-master\Projeto_TInject\ViaMenssegerFontes\Unit1.dfm</Transaction>
+    <Transaction>2023/05/18 08:53:33.000.142,D:\Projeto-TInject-master\Projeto_TInject\ViaMenssegerFontes\UConfiguracao.pas=D:\Projeto-TInject-master\Projeto_TInject\ViaMenssegerFontes\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
